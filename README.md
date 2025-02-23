@@ -12,7 +12,8 @@
 
 pip install -r requirements.txt
 
-데이터의 경우에는 각각의 eyetracking for everyone(https://github.com/CSAILVision/GazeCapture) 과 efficiency in real-time webcam gaze tracking(https://github.com/pperle/gaze-tracking-pipeline)에서 사용한 방법과 같은 방법을 사용하였다. 
+데이터의 경우에는 각각의 eyetracking for everyone(https://github.com/CSAILVision/GazeCapture) 과 
+efficiency in real-time webcam gaze tracking(https://github.com/pperle/gaze-tracking-pipeline)에서 사용한 방법과 같은 방법을 사용하였다. 
 
 실행 방법 
 
